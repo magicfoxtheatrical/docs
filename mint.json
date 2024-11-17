@@ -80,6 +80,12 @@
       ]
     },
     {
+      "group": "Troubleshooting",
+      "pages": [
+        "troubleshooting/troubleshoot-page2"
+      ]
+    },
+    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
